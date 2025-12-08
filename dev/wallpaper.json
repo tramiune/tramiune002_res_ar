@@ -37,28 +37,7 @@
     "id": "100_popular_003",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/days_001_6h.webp",
-        "name": "silly_002.mp4",
-        "thumbUrl": "",
-        "hour": "06:00",
-        "contentType": "image/webp"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/days_001_12h.webp",
-        "name": "silly_002.mp4",
-        "thumbUrl": "",
-        "hour": "12:00",
-        "contentType": "image/webp"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/days_001_18h.webp",
-        "name": "silly_002.mp4",
-        "thumbUrl": "",
-        "hour": "18:00",
-        "contentType": "image/webp"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/days_001_24h.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/56c76389-0904-4849-a67a-d2d6672491a0_Gojo_Satoru_30.jpg",
         "name": "silly_002.mp4",
         "thumbUrl": "",
         "hour": "24:00",
@@ -69,20 +48,14 @@
     "isPremium": true,
     "createdAt": 1760677057,
     "subType": 0,
-    "type": 3,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
     "id": "100_popular_004",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/animal_001.mp4",
-        "name": "silly_004.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/animal_001.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/c640fb02-1af9-4b0f-b893-bb452d852a22_Ryomen_Sukuna_3.webp",
         "name": "silly_004.webp",
         "thumbUrl": "",
         "contentType": "image/jpeg"
@@ -92,14 +65,14 @@
     "isPremium": true,
     "createdAt": 1760677058,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
     "id": "100_popular_005",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/animal_002.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/5ea81341-2bfc-4644-ae54-686bccc46340_Ryomen_Sukuna_4.webp",
         "name": "silly_005.webp",
         "thumbUrl": "",
         "contentType": "image/jpeg"
@@ -116,7 +89,7 @@
     "id": "100_popular_006",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/animal_003.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/aea3a6fc-ea2b-4eaa-958e-96e25bb4a1c0_pre_1_Ryomen_Sukuna.webp",
         "name": "silly_006.webp",
         "thumbUrl": "",
         "contentType": "image/jpeg"
@@ -133,13 +106,7 @@
     "id": "101_anime_001",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_001.mp4",
-        "name": "anime_001.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_001.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/723c55de-acaf-4a8f-bcfd-0ac40fb15a9d_Kamado_Tanjiro_21.jpg",
         "name": "anime_001.webp",
         "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_001_preview.webp",
         "contentType": "image/webp"
@@ -149,22 +116,16 @@
     "isPremium": true,
     "createdAt": 1760677055,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
     "id": "101_anime_003",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_003.mp4",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/059e74da-9184-451e-a272-b9d5ae68b88a_Kamado_Tanjiro_30.webp",
         "name": "anime_003.mp4",
         "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_003.webp",
-        "name": "anime_003.webp",
-        "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_003_preview.webp",
         "contentType": "image/webp"
       }
     ],
@@ -172,20 +133,14 @@
     "isPremium": true,
     "createdAt": 1760677055,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
     "id": "101_anime_002",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_002.mp4",
-        "name": "anime_002.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_002.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/3155d467-495e-4195-89e0-0768795d49e8_pre_3_Kamado_Tanjiro.webp",
         "name": "anime_002.webp",
         "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_002_preview.webp",
         "contentType": "image/webp"
@@ -195,276 +150,8 @@
     "isPremium": true,
     "createdAt": 1760677055,
     "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "101_anime_004",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_004.webp",
-        "name": "anime_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "101_anime",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
     "type": 1,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "101_anime_005",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_005.webp",
-        "name": "anime_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "101_anime",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
-    "type": 1,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "101_anime_006",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_006.webp",
-        "name": "anime_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "101_anime",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
-    "type": 1,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "101_anime_007",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_007.webp",
-        "name": "anime_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "101_anime",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
-    "type": 1,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "101_anime_008",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/anime_008.webp",
-        "name": "anime_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "101_anime",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
-    "type": 1,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_001",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001.mp4",
-        "name": "silly_001.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001.webp",
-        "name": "silly_001.webp",
-        "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001_preview.webp",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677055,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_002",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_002.mp4",
-        "name": "silly_002.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_002.webp",
-        "name": "silly_002.webp",
-        "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_002_preview.webp",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677115,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_003",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_003.mp4",
-        "name": "silly_003.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_003.webp",
-        "name": "silly_003.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677175,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_004",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_004.mp4",
-        "name": "silly_004.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_004.webp",
-        "name": "silly_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677235,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_005",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_005.mp4",
-        "name": "silly_005.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_005.webp",
-        "name": "silly_005.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677295,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_006",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_006.mp4",
-        "name": "silly_004.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_006.webp",
-        "name": "silly_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677235,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "102_silly_007",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_007.mp4",
-        "name": "silly_005.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_007.webp",
-        "name": "silly_005.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "102_silly_smile",
-    "isPremium": true,
-    "createdAt": 1760677295,
-    "subType": 0,
-    "type": 0,
-    "coinToUnlock": 0
-  },
-  {
-    "id": "103_super_hero_001",
-    "medias": [
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/super_hero_001.mp4",
-        "name": "silly_004.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/super_hero_001.webp",
-        "name": "silly_004.webp",
-        "thumbUrl": "",
-        "contentType": "image/webp"
-      }
-    ],
-    "categoryId": "103_super_hero",
-    "isPremium": true,
-    "createdAt": 1760677235,
-    "subType": 0,
-    "type": 0,
     "coinToUnlock": 0
   }
+
 ]
