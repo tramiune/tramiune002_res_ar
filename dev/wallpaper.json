@@ -3,15 +3,9 @@
     "id": "100_popular_001",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001.mp4",
-        "name": "silly_001.mp4",
-        "thumbUrl": "",
-        "contentType": "video/mp4"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/226a03d6-0ac7-48ab-a013-c86f0085bebb_Gojo_Satoru_24.jpg",
         "name": "silly_001.webp",
-        "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/silly_001_preview.webp",
+        "thumbUrl": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/226a03d6-0ac7-48ab-a013-c86f0085bebb_Gojo_Satoru_24.jpg",
         "contentType": "image/webp"
       }
     ],
@@ -19,20 +13,14 @@
     "isPremium": true,
     "createdAt": 1760677055,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
     "id": "100_popular_002",
     "medias": [
       {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/double_001_0.webp",
-        "name": "silly_002.mp4",
-        "thumbUrl": "",
-        "contentType": "image/lock"
-      },
-      {
-        "url": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/double_001_1.webp",
+        "url": "https://app-assets-cdn.pusilung.io/ar_art_draw_anime/assets/32907736-9e88-4a44-b768-3e937513d491_Gojo_Satoru_26.jpg",
         "name": "silly_002.webp",
         "thumbUrl": "",
         "contentType": "image/home"
@@ -42,7 +30,7 @@
     "isPremium": true,
     "createdAt": 1760677056,
     "subType": 0,
-    "type": 2,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
