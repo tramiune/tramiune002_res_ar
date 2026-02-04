@@ -3,12 +3,14 @@
     "id": "100_popular",
     "title": "Jujutsu Kaisen",
     "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_popular.webp",
+    "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_popular.webp",
     "createdAt": 1759307723
   },
   {
     "id": "101_anime",
     "title": "Demon Slayer",
     "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "thumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
     "createdAt": 1760608526
   }
 ]
