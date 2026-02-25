@@ -10,7 +10,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677055,
     "subType": 0,
     "type": 1,
@@ -27,7 +27,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677056,
     "subType": 0,
     "type": 1,
@@ -45,7 +45,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677057,
     "subType": 0,
     "type": 1,
@@ -62,7 +62,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677058,
     "subType": 0,
     "type": 1,
@@ -79,7 +79,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677059,
     "subType": 0,
     "type": 1,
@@ -96,7 +96,7 @@
       }
     ],
     "categoryId": "100_popular",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677060,
     "subType": 0,
     "type": 1,
@@ -113,7 +113,7 @@
       }
     ],
     "categoryId": "101_anime",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677055,
     "subType": 0,
     "type": 1,
@@ -130,7 +130,7 @@
       }
     ],
     "categoryId": "101_anime",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677055,
     "subType": 0,
     "type": 1,
@@ -147,7 +147,7 @@
       }
     ],
     "categoryId": "101_anime",
-    "isPremium": true,
+    "isPremium": false,
     "createdAt": 1760677055,
     "subType": 0,
     "type": 1,
