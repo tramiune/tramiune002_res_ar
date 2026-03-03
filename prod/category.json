@@ -1,14 +1,37 @@
 [
   {
-    "id": "100_popular",
-    "title": "Jujutsu Kaisen",
+    "id": "100_anime",
+    "title": "Anime",
     "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_popular.webp",
+    "imageThumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_popular.webp",
     "createdAt": 1759307723
   },
   {
-    "id": "101_anime",
-    "title": "Demon Slayer",
+    "id": "101_cartoon",
+    "title": "Cartoon",
     "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "imageThumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "createdAt": 1760608526
+  },
+  {
+    "id": "102_super_hero",
+    "title": "Super Hero",
+    "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "imageThumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "createdAt": 1760608526
+  },
+  {
+    "id": "103_vehicle",
+    "title": "Vehicle",
+    "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "imageThumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "createdAt": 1760608526
+  },
+  {
+    "id": "104_text",
+    "title": "Text",
+    "imageUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
+    "imageThumbUrl": "https://tramiune.github.io/tramiune001_res_wallpaper/resources/category/cat_anime.webp",
     "createdAt": 1760608526
   }
 ]
